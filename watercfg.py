@@ -1,2 +1,2 @@
-TOKEN="" #BotFather API Token
-MONGO_TOKEN="" #MongoDB Token
+TOKEN = "your_telegram_bot_token_here"
+MONGO_TOKEN = "your_mongodb_connection_string_here"
