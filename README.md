@@ -1,4 +1,4 @@
-# 💧 Aqua Way — Telegram Bot
+# 💧Water Delivery Telegram Bot
 
 Telegram-bot service for water delivery — orders managing, products online shop, personal account and fully functional admin-panel for the team.
 
